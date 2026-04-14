@@ -21,15 +21,22 @@ Escolha a operação (1 - 5): 1
 Digite o primeiro número: 10
 Digite o segundo número: 5
 Resultado: 15
+
 ⚠️ Tratamento de erros
-Evita divisão por zero
-Valida opções inválidas no menu
+
+* Evita divisão por zero
+* Valida opções inválidas no menu
+
 🛠️ Tecnologias utilizadas
-Python 3
+
+* Python 3
+
 📌 Melhorias futuras
-Interface gráfica (GUI)
-Suporte a mais operações (potência, raiz, etc.)
-Histórico de cálculos
+
+* Interface gráfica (GUI)
+* Suporte a mais operações (potência, raiz, etc.)
+* Histórico de cálculos
+
 📄 Licença
 
 Este projeto está sob a licença MIT - sinta-se livre para usar e modificar.
